@@ -1,4 +1,4 @@
-# dogcat
+# dogchat
 
 > Multi person online chat system
 

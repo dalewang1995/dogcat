@@ -1,4 +1,4 @@
-# dogcat
+# dogchat
 Multi person online chat system
 
 准备用心做一个开源项目，锻炼自己的技术。

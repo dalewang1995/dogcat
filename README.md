@@ -34,5 +34,3 @@ Multi person online chat system
 #### 服务器
 - 阿里云ECS
 - ubuntu
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
